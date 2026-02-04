@@ -1,0 +1,11 @@
+# venv / python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# ide
+.idea/
+
+# output
+*.log
